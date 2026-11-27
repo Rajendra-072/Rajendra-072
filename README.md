@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Rajendra Lokhande 👋
 
-<!--
-**Rajendra-072/Rajendra-072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Backend Engineering | System Design
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate-in-progress and MERN Stack Developer interested in building scalable web applications, designing REST APIs, and integrating AI-powered features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Working with the MERN stack
+- ⚙️ Interested in Backend Engineering and System Design
+- 🤖 Exploring AI model integration with Node.js and Express
+- 📚 Learning database optimization, caching, and scalable application architecture
+- 🚀 Building practical projects to improve my development skills
+
+### 🛠️ Tech Stack
+
+**Frontend:** React.js, JavaScript, Tailwind CSS, HTML, CSS
+
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+
+**Database:** MongoDB, MySQL
+
+**Tools:** Git, GitHub, VS Code, Postman
+
+**Currently Learning:** Redis, Database Indexing, System Design, Scalability
+
+### 🚀 Featured Projects
+
+- **[AI Interview Platform](https://github.com/Rajendra-072/AI-Interrview-platform)**  
+  An AI-powered interview preparation platform with resume upload, authentication, and AI-generated interview experiences.
+
+- **[Gym Management SaaS](https://github.com/Rajendra-072/Gym-management-saas)**  
+  A MERN-based gym management application for managing members, attendance, and gym operations. *(In progress)*
+
+- **[Book Store](https://github.com/Rajendra-072/Book-store)**  
+  A web application for browsing and managing a collection of books.
+
+- **[QuickGrocery](https://github.com/Rajendra-072)**  
+  A grocery shopping web application.
+
+### 🤝 Connect With Me
+
+- GitHub: [Rajendra-072](https://github.com/Rajendra-072)
