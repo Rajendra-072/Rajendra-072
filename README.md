@@ -38,4 +38,6 @@ I'm a Computer Science graduate-in-progress and MERN Stack Developer interested 
 
 ### 🤝 Connect With Me
 
-- GitHub: [Rajendra-072](https://github.com/Rajendra-072)
+- **Email:** [lorajendra856@gmail.com](mailto:lorajendra856@gmail.com)
+- **LinkedIn:** [Rajendra Lokhande](https://www.linkedin.com/in/rajendra-lokhande-88b08b352/)
+- **GitHub:** [Rajendra-072](https://github.com/Rajendra-072)
