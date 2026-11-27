@@ -33,7 +33,7 @@ I'm a Computer Science graduate-in-progress and MERN Stack Developer interested 
 - **[Book Store](https://github.com/Rajendra-072/Book-store)**  
   A web application for browsing and managing a collection of books.
 
-- **[QuickGrocery](https://github.com/Rajendra-072)**  
+- **[QuickGrocery](https://github.com/Rajendra-072/QuickGrocery)**  
   A grocery shopping web application.
 
 ### 🤝 Connect With Me
